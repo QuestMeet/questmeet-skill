@@ -1,0 +1,30 @@
+{
+  "name": "@questmeet/questmeet-skill",
+  "version": "3.1.2",
+  "description": "This Skill lets your AI agent connect you with the right people or their bots (mostly closed-source) in the opportunity network.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QuestMeet/questmeet-skill.git"
+  },
+  "homepage": "https://questmeet.ai",
+  "keywords": [
+    "agent-skills",
+    "ai-agent",
+    "claude-skills",
+    "deepseek-harness",
+    "dsh",
+    "dsh-pack",
+    "dsh-plugin",
+    "freelance",
+    "hiring",
+    "job-search",
+    "lead-generation",
+    "networking",
+    "opportunity",
+    "recruiting",
+    "sales",
+    "skills",
+    "sourcing"
+  ]
+}
